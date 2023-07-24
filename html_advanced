@@ -1,1 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HTML Advanced</title>
+</head>
+<body>
+  <header>
+<ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+    <link href="https://C:\Users\Vk\Desktop\Testing\—Pngtree—knitted wool flower supplies_5438791.png" rel="icon">
+    <a href="C:\Users\Vk\Desktop\Testing\—Pngtree—knitted wool flower supplies_5438791.png/">
+      <img src="C:\Users\Vk\Desktop\Testing\—Pngtree—knitted wool flower supplies_5438791.png" alt="Crochet Crafts Kenya">
+    </a>
+    
+  </header>
+</body>
+</html>
 
