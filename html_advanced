@@ -18,5 +18,152 @@
     
   </header>
 </body>
+<main>
+  <section>
+    <div>
+      <h2>Banner</h2>
+      <p>This is the banner section.</p>
+      <button>Click me!</button>
+    </div>
+    <div>
+      <h3>Another block</h3>
+      <p>This is another block.</p>
+    </div>
+    <div>
+      <h4>Images and text</h4>
+      <div>
+        <img src="C:\Users\Vk\Downloads\dress.png"Image 1">
+        <h5>Crochet Dress</h5>
+        <p>This is a beautiful blue dress.</p>
+      </div>
+      <div>
+        <img src="C:\Users\Vk\Downloads\Sweater.png" alt="Image 2">
+        <h5>Crochet Sweater</h5>
+        <p>This is a beautiful sweater.</p>
+      </div>
+      <div>
+        <img src="C:\Users\Vk\Downloads\scarf.png" alt="Image 3">
+        <h5>Crochet scarf</h5>
+        <p>This is a beatiful scarf 3.</p>
+      </div>
+      <div>
+        <img src="C:\Users\Vk\Downloads\beanie.png" alt="Image 4">
+        <h5>Crochet Beanie</h5>
+        <p>This is a beautiful beanie.</p>
+      </div>
+    </div>
+  </section>
+</main>
+<section class="quote">
+  <div class="image">
+    <img src="C:\Users\Vk\Desktop\Testing\crochet motivation.png" alt="Emma Delarosa">
+  </div>
+  <div class="I crochet so I dont use my superpowers to turn you into a pool of goo!">
+    <blockquote>
+      <p>“The only way to do great work is to love what you do.”</p>
+      <footer>- Steve Jobs</footer>
+    </blockquote>
+    <p>This is a quote from Steve Jobs, the co-founder of Apple.</p>
+  </div>
+</section>
+<section class="videos">
+  <h2>Videos</h2>
+  <div class="video-block">
+    <img src="C:\Users\Vk\Downloads\dress.png" alt="Dress Tutorial">
+    <h3>Crochet dress tutorial </h3>
+    <p>Easy steps on how to make this dress.</p>
+  </div>
+  <div class="video-block">
+    <img src="C:\Users\Vk\Downloads\Sweater.png" alt="Sweater Tutorial">
+    <h3>Crochet sweater tutorial</h3>
+    <p>Easy steps on how to make this sweater.</p>
+  </div>
+  <div class="video-block">
+    <img src="C:\Users\Vk\Downloads\scarf.png" alt="Scarf Tutorial">
+    <h3>Crochet scarf tutorial</h3>
+    <p>Easy steps on how to make this scarf.</p>
+  </div>
+  <div class="video-block">
+    <img src="C:\Users\Vk\Downloads\beanie.png" alt="Beanie Tutorial">
+    <h3>Crochet beanie tutorial</h3>
+    <p>Easy steps on how to make this beanie.</p>
+  </div>
+  <div class="author">
+    <img src="C:\Users\Vk\Downloads\—Pngtree—knitted wool flower supplies_5438791.png" alt="Victoria Kerubo">
+    <h3>Victoria Kerubo</h3>
+  </div>
+  <div class="rating">
+    <img src="https://img.icons8.com/color/16/000000/star-filled.png" alt="5 stars">
+    <img src="https://img.icons8.com/color/16/000000/star-filled.png" alt="5 stars">
+    <img src="https://img.icons8.com/color/16/000000/star-filled.png" alt="5 stars">
+    <img src="https://img.icons8.com/color/16/000000/star-filled.png" alt="5 stars">
+  </div>
+</section>
+<section class="membership">
+  <h2>Membership</h2>
+  <div class="membership-block">
+    <img src="C:\Users\Vk\Downloads\Youtube.png" alt="YouTube logo">
+    <h3>YouTube</h3>
+    <p>visit our youtube channel.</p>
+    <button>Learn more</button>
+  </div>
+  <div class="membership-block">
+    <img src="C:\Users\Vk\Downloads\facebook.png" alt="Facebook logo">
+    <h3>Facebook</h3>
+    <p>Like and folow us on Facebook.</p>
+    <button>Learn more</button>
+  </div>
+  <div class="membership-block">
+    <img src="C:\Users\Vk\Downloads\instagram.png" alt="Instagram logo">
+    <h3>Instagram</h3>
+    <p>Follow us on Instagram.</p>
+    <button>Learn more</button>
+  </div>
+  <div class="membership-block">
+    <img src="C:\Users\Vk\Downloads\tiktok.png" alt="TikTok logo">
+    <h3>TikTok</h3>
+    <p>Follow us on Tiktok.</p>
+    <button>Learn more</button>
+  </div>
+</section>
+<section class="faq">
+  <h2>FAQ</h2>
+  <div class="row">
+    <div class="item">
+      <h3>Do you offer training services?</h3>
+      <p>Yes we do.</p>
+    </div>
+    <div class="item">
+      <h3>Do you deliver counrtywide?</h3>
+      <p>Yes we do, via G4S.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="item">
+      <h3>How long will it take to make my order?</h3>
+      <p>It depends on the item you place your order, between 3 - 7 days.</p>
+    </div>
+    <div class="item">
+      <h3>Do you have ready made items?</h3>
+      <p>Yes we do, check on our shop section.</p>
+    </div>
+  </div>
+</section>
+<footer>
+  <div class="global-footer">
+    <div class="row">
+      <img src="C:\Users\Vk\Downloads\logo.png" alt="Crochet Kenya logo">
+      <div class="links">
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+        <a href="#">Terms of Service</a>
+        <a href="#">Privacy Policy</a>
+      </div>
+    </div>
+    <div class="row">
+      <p>Copyright &copy; 2023 ALX</p>
+    </div>
+  </div>
+</footer>
 </html>
 
