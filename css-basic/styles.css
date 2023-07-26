@@ -18,3 +18,10 @@ aside {
   flex: 1;
   overflow-y: auto;
 }
+.logo {
+  font-size: 50px;
+  color: #fff;
+  background-color: #000;
+  padding: 10px;
+  border-radius: 5px;
+}
