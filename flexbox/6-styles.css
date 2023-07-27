@@ -49,6 +49,20 @@
           </nav>
         </div>
       </div>
+      /* Navbar ============================= */
+
+nav {
+    display: flex;
+  }
+  
+  /* .nav .nav-item display declaration is removed */
+  
+  .nav .nav-item + .nav-item {
+    margin-left: 2rem;
+  }
+  
+  /* nav-item-margin variable is changed to 0 0 0 2rem */
+  
     </header>
     /* Header ============================= */
 
