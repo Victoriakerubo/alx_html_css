@@ -51,6 +51,17 @@
         </div>
       </div>
     </header>
+    /* Header ============================= */
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  /* .header-logo and .header-logo a rules are removed */
+  
+  /* .navbar-menu rule is removed */
+  
     <!- Main ->
     <main>
       <!- Hero section ->
