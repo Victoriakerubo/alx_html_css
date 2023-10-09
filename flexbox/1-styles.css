@@ -1,41 +1,28 @@
 
-.section-services {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Apply basic styles to the container and rows */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.row {
+  display: flex; /* Use flex display for the row class */
+  flex-wrap: wrap; /* Allow flex items to wrap to the next line if there's not enough space */
+}
+
+/* Apply styles to the columns */
+[class*='col-'] {
+  flex: 1; /* Make the columns flexible within the row */
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: center;
   background-color: #f0f0f0;
-  padding: 20px;
-  text-align: center;
-}
-
-/* Style for the section-works class */
-.section-works {
-  background-color: #e0e0e0;
-  padding: 20px;
-  text-align: center;
-}
-
-/* Style for the section-about-us class */
-.section-about-us {
-  background-color: #d0d0d0;
-  padding: 20px;
-  text-align: center;
-}
-
-/* Style for the section-latest-news class */
-.section-latest-news {
-  background-color: #c0c0c0;
-  padding: 20px;
-  text-align: center;
-}
-
-/* Style for the section-testimonial class */
-.section-testimonial {
-  background-color: #b0b0b0;
-  padding: 20px;
-  text-align: center;
-}
-
-/* Style for the section-contact class */
-.section-contact {
-  background-color: #a0a0a0;
-  padding: 20px;
-  text-align: center;
+  margin: 5px; /* Add some margin between columns */
 }
